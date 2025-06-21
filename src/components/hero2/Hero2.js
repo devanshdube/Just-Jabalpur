@@ -36,15 +36,20 @@ const Hero2 = (props) => {
             <div className="container-fluid">
               <div className="slide-content">
                 <div className="slide-title">
-                  <span>
+                  {/* <span>
                     <img src={shape1} alt="" /> We can brighten every child's
                     future.
-                  </span>
+                  </span> */}
                 </div>
                 <div className="slide-sub-title">
-                  <h2>
+                  {/* <h2>
                     Charities focused
                     <span> education </span> <span className="text">help</span>
+                  </h2> */}
+                  <h2>
+                    Just Jabalpur
+                    <span> Yuva Kalyan </span>{" "}
+                    <span className="text">Samiti</span>
                   </h2>
                 </div>
                 <div className="slide-btns">
@@ -107,7 +112,7 @@ const Hero2 = (props) => {
                     </div>
                     <div className="text">
                       <h3>Call Us Now</h3>
-                      <span>+025 757 576 560</span>
+                      <span>+91 9713685500</span>
                     </div>
                   </div>
                 </div>
