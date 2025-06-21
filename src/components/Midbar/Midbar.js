@@ -18,7 +18,7 @@ const Midbar = () => {
           </div>
           <div className="col-lg-9 col-12">
             <ul>
-              <li>
+              {/* <li>
                 <div className="icon">
                   <i className="flaticon-clock"></i>
                 </div>
@@ -26,14 +26,14 @@ const Midbar = () => {
                   <h3>Opening Houres</h3>
                   <span>Mon _ Sat: 9.00 to 18.00</span>
                 </div>
-              </li>
+              </li> */}
               <li>
                 <div className="icon">
                   <i className="fi flaticon-home-address"></i>
                 </div>
                 <div className="text">
                   <h3>Our Address</h3>
-                  <span>Bowery St, New York, USA</span>
+                  <span>1601/1b Near Watar Tank, Purwa Garha, Jabalpur</span>
                 </div>
               </li>
               <li>
@@ -42,7 +42,7 @@ const Midbar = () => {
                 </div>
                 <div className="text">
                   <h3>Contact Us</h3>
-                  <span>(671) 555-0110</span>
+                  <span>9713685500</span>
                 </div>
               </li>
             </ul>
